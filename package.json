@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FLiotta/ReactSocial.git"
+    "url": "git+https://github.com/TyreseSong/ReactSocial.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FLiotta/ReactSocial/issues"
+    "url": "https://github.com/TyreseSong/ReactSocial/issues"
   },
-  "homepage": "https://github.com/FLiotta/ReactSocial#readme",
+  "homepage": "https://github.com/TyreseSong/ReactSocial#readme",
   "dependencies": {
     "concurrently": "^5.0.0"
   }

@@ -1,6 +1,6 @@
-# Yasei [WIP]
+# SOCIAL MERN [WIP]
 
-Yasei is a social network made in the MERN stack.
+SOCIAL MERN is a social network made in the MERN stack.
 
 ![alt text](display.gif)
 
@@ -21,4 +21,4 @@ Install all the dependencies on the client and the server folder, also in the ma
 
 ### Demo
 
-https://yaseisocial.herokuapp.com/
+https://mernsocial.herokuapp.com/

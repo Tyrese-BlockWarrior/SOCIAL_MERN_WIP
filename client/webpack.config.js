@@ -80,7 +80,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       filename: 'index.html',
-      title: 'Yasei',
+      title: 'SOCIAL MERN',
       template: 'src/assets/index.html'
     }),
     new MiniCssExtractPlugin({

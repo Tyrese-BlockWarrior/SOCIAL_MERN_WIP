@@ -50,7 +50,7 @@ class Navbar extends Component {
                 <p className="text-center my-0"><i className="fas fa-compass fa-2x"></i></p>
               </NavLink>
               <a
-                href='https://www.github.com/fliotta/reactsocial'
+                href='https://www.github.com/TyreseSong/reactsocial'
                 className="navbar-cs__button"
                 target="_blank"
                 data-balloon-pos="left"
